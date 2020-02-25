@@ -97,7 +97,7 @@ class planeta{
       }
     }
     textSize(40);
-    text(nombre, radio/2,radio*1.5);
+    text(nombre, radio/3,radio*2);
     
     popMatrix();
   }

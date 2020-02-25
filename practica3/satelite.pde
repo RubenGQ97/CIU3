@@ -44,7 +44,7 @@ class satelite{
     fill(255);
     shape(esfera);
     textSize(15);
-    text(nombre, radio/2,radio*1.5);
+    text(nombre, radio/3,radio*2);
     
     popMatrix();
     
